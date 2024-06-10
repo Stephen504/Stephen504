@@ -14,8 +14,7 @@
 ## Academic Projects
 - **E-commerce Website**: Developed a fully functional e-commerce website as part of my coursework, implementing features like order management, payment processing, and user account management.
 
-## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile]
+## Connect with me
 - **GitHub**: @Stephen504
 
 ## GitHub Stats
